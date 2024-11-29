@@ -65,6 +65,8 @@ A simple PHP-based web application to manage devices and send Wake-on-LAN (WOL) 
    - Click the **"Wake"** button next to the offline device.
    - If the device supports WOL, it will turn on.
 
+
+[img](/images/1.png)
 ---
 
 ## **Configuration**
