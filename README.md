@@ -89,14 +89,17 @@ A simple PHP-based web application to manage devices and send Wake-on-LAN (WOL) 
 ---
 
 ## **Known Issues**
-1. **Permission Issues**:
+1. **Permission Issues**: **FIXED**
    - Ensure `resources.json` has write permissions for the web server user.
-2. **Devices Always Offline**:
+2. **Devices Always Offline**: **FIXED**
    - Check if the `ping` command is working from the server manually.
    - Ensure the target device responds to ICMP packets.
-3. **WOL Not Working**:
+3. **WOL Not Working**: **FIXED**
    - Verify the target device supports WOL and has it enabled in BIOS/UEFI.
    - Ensure the correct MAC address is entered.
+4. **Command Injection**  
+   - There is a potential risk of command injection in the IP address field while adding a device.  
+   - This issue will be fixed soon (hopefully).
 
 ---
 
