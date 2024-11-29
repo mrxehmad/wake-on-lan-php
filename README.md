@@ -31,7 +31,7 @@ A simple PHP-based web application to manage devices and send Wake-on-LAN (WOL) 
 ## **Installation**
 1. Clone or download this repository into your web server directory (e.g., `/var/www/wol`).
    ```bash
-   git clone <repository-url> /var/www/wol
+   git clone https://github.com/mrxehmad/wake-on-lan-php /var/www/wol
    ```
 2. Ensure proper permissions for the `resources.json` file:
    ```bash
