@@ -1,12 +1,12 @@
 [
     {
         "name": "Desktop",
-        "mac": "54:BF:64:61:45:55",
-        "ip": "10.1.15.150"
+        "mac": "xxxxxxxxxx",
+        "ip": "1xxxxxxxxxx"
     },
     {
         "name": "Server",
-        "mac": "00:80:64:dd:16:13",
-        "ip": "10.1.15.103"
+        "mac": "0xxxxxxxxxxxx",
+        "ip": "1xxxxxxxxxx"
     }
 ]
