@@ -66,7 +66,7 @@ A simple PHP-based web application to manage devices and send Wake-on-LAN (WOL) 
    - If the device supports WOL, it will turn on.
 
 
-[img](/images/1.png)
+![img](/images/1.png)
 ---
 
 ## **Configuration**
